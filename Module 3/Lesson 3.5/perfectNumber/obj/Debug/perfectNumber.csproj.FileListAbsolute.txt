@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\bin\Debug\perfectNumber.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\bin\Debug\perfectNumber.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\bin\Debug\perfectNumber.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\obj\Debug\perfectNumber.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\obj\Debug\perfectNumber.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.5\perfectNumber\obj\Debug\perfectNumber.pdb

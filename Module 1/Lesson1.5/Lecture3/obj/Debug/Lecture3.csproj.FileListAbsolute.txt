@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\bin\Debug\Lecture3.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\bin\Debug\Lecture3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\bin\Debug\Lecture3.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\obj\Debug\Lecture3.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\obj\Debug\Lecture3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Lecture3\obj\Debug\Lecture3.pdb

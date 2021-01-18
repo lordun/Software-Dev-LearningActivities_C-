@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\bin\Debug\triangularNumber.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\bin\Debug\triangularNumber.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\bin\Debug\triangularNumber.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\obj\Debug\triangularNumber.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\obj\Debug\triangularNumber.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\triangularNumber\obj\Debug\triangularNumber.pdb

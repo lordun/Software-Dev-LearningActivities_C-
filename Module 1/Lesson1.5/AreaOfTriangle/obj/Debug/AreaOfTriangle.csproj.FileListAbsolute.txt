@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\obj\Debug\AreaOfTriangle.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb

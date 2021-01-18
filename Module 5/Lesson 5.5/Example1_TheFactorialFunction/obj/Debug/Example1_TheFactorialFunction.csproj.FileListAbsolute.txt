@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\bin\Debug\Example1_TheFactorialFunction.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\bin\Debug\Example1_TheFactorialFunction.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\bin\Debug\Example1_TheFactorialFunction.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\obj\Debug\Example1_TheFactorialFunction.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\obj\Debug\Example1_TheFactorialFunction.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\Example1_TheFactorialFunction\obj\Debug\Example1_TheFactorialFunction.pdb

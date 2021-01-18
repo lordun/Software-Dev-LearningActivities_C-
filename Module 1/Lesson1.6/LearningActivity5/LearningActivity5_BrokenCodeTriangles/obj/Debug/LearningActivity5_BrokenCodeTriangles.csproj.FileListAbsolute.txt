@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\obj\Debug\LearningActivity5_BrokenCodeTriangles.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\bin\Debug\LearningActivity5_Broken.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\bin\Debug\LearningActivity5_Broken.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\bin\Debug\LearningActivity5_Broken.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\obj\Debug\LearningActivity5_Broken.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity5\LearningActivity5_BrokenCodeTriangles\obj\Debug\LearningActivity5_Broken.pdb

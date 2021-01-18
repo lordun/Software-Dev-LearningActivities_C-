@@ -1,0 +1,11 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\LearningActivityCircumAreaCircle\obj\Debug\LearningActivityCircumAreaCircle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\LearningActivityCircumAreaCircle\obj\Debug\LearningActivityCircumAreaCircle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\bin\Debug\LearningActivityCircumAreaCircle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\obj\Debug\LearningActivityCircumCircle.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\obj\Debug\LearningActivityCircumAreaCircle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\CircumandAreaofCircle\LearningActivityCircumAreaCircle\obj\Debug\LearningActivityCircumAreaCircle.pdb

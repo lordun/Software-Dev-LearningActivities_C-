@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\bin\Debug\pascalsTriangle.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\bin\Debug\pascalsTriangle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\bin\Debug\pascalsTriangle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\obj\Debug\pascalsTriangle.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\obj\Debug\pascalsTriangle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\pascalsTriangle\obj\Debug\pascalsTriangle.pdb

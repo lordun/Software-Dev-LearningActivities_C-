@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\bin\Debug\Blockbuster - MultiFileProject.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\bin\Debug\Blockbuster - MultiFileProject.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\bin\Debug\Blockbuster - MultiFileProject.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\obj\Debug\Blockbuster - MultiFileProject.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\obj\Debug\Blockbuster - MultiFileProject.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Blockbuster - MultiFileProject\obj\Debug\Blockbuster - MultiFileProject.pdb

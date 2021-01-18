@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\bin\Debug\numberPattern2.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\bin\Debug\numberPattern2.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\bin\Debug\numberPattern2.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\obj\Debug\numberPattern2.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\obj\Debug\numberPattern2.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\numberPattern2\obj\Debug\numberPattern2.pdb

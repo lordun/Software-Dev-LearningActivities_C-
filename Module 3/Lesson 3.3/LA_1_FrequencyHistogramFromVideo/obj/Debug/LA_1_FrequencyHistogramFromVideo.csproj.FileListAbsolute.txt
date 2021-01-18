@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\bin\Debug\LA_1_FrequencyHistogramFromVideo.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\bin\Debug\LA_1_FrequencyHistogramFromVideo.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\bin\Debug\LA_1_FrequencyHistogramFromVideo.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\obj\Debug\LA_1_FrequencyHistogramFromVideo.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\obj\Debug\LA_1_FrequencyHistogramFromVideo.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LA_1_FrequencyHistogramFromVideo\obj\Debug\LA_1_FrequencyHistogramFromVideo.pdb

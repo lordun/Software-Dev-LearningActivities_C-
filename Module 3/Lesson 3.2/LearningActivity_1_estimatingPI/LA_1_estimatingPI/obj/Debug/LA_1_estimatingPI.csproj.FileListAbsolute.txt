@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\bin\Debug\LA_1_estimatingPI.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\bin\Debug\LA_1_estimatingPI.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\bin\Debug\LA_1_estimatingPI.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\obj\Debug\LA_1_estimatingPI.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\obj\Debug\LA_1_estimatingPI.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LA_1_estimatingPI\obj\Debug\LA_1_estimatingPI.pdb

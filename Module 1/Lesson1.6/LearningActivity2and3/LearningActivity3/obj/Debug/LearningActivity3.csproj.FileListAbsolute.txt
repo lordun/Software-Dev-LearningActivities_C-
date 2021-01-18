@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\bin\Debug\LearningActivity3.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\bin\Debug\LearningActivity3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\bin\Debug\LearningActivity3.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\obj\Debug\LearningActivity3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\obj\Debug\LearningActivity3.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity2and3\LearningActivity3\obj\Debug\LearningActivity3.csprojAssemblyReference.cache

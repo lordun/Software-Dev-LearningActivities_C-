@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\bin\Debug\LearningActivity1_brokenChange.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\bin\Debug\LearningActivity1_brokenChange.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\bin\Debug\LearningActivity1_brokenChange.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\obj\Debug\LearningActivity1_brokenChange.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\obj\Debug\LearningActivity1_brokenChange.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\LearningActivity1_brokenChange\obj\Debug\LearningActivity1_brokenChange.pdb

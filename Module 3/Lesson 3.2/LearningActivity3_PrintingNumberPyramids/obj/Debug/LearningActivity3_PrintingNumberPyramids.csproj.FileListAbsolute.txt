@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\bin\Debug\LearningActivity3_PrintingNumberPyramids.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\bin\Debug\LearningActivity3_PrintingNumberPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\bin\Debug\LearningActivity3_PrintingNumberPyramids.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\obj\Debug\LearningActivity3_PrintingNumberPyramids.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\obj\Debug\LearningActivity3_PrintingNumberPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity3_PrintingNumberPyramids\obj\Debug\LearningActivity3_PrintingNumberPyramids.pdb

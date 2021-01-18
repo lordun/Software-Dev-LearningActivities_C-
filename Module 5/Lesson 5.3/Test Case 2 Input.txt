@@ -1,0 +1,10 @@
+3
+rectangle 0 1 2 3
+circle 2 1 7
+rectangle 2 1 0.5 0.75
+move 1 7 8
+centre 1
+centre 2
+area 2
+issmaller 0 1
+exit

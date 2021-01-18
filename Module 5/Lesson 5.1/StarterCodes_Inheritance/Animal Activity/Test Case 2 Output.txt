@@ -1,0 +1,17 @@
+Animal
+Shark 0
+Just keep swimming
+Shark ate Animal
+Fish 0
+Just keep swimming
+Shark 0
+Just keep swimming
+Shark ate Fish
+Dog 4
+Woof
+Shark 0
+Just keep swimming
+Shark ate Dog
+Shark 0
+Just keep swimming
+Shark ate Shark

@@ -1,0 +1,15 @@
+5
+rectangle 2 3 4 5
+circle 1 1 10
+circle 5 2 3
+rectangle 2.5 -2.5 7 8
+rectangle 7 0 2 20
+area 0
+area 1
+perimeter 2
+perimeter 3
+issmaller 2 3
+centre 2
+move 2 3 4
+centre 2
+exit

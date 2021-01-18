@@ -1,0 +1,16 @@
+5
+circle 0 0 1
+circle 1 1 2
+circle -1 -1 3
+rectangle 0.5 0.5 0.5 0.5
+rectangle 2 3 1 2
+issmaller 0 1
+issmaller 1 0
+move 0 5 4
+centre 0
+centre 1
+area 1
+area 2
+area 3
+perimeter 4
+exit

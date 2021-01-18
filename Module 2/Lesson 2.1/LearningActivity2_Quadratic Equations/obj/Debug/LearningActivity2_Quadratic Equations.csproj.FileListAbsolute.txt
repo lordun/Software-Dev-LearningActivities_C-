@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\bin\Debug\LearningActivity2_Quadratic Equations.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\bin\Debug\LearningActivity2_Quadratic Equations.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\bin\Debug\LearningActivity2_Quadratic Equations.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\obj\Debug\LearningActivity2_Quadratic Equations.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\obj\Debug\LearningActivity2_Quadratic Equations.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LearningActivity2_Quadratic Equations\obj\Debug\LearningActivity2_Quadratic Equations.pdb

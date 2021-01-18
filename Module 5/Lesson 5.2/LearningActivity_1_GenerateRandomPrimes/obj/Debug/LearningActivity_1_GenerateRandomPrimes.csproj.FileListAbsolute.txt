@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\bin\Debug\LearningActivity_1_GenerateRandomPrimes.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\bin\Debug\LearningActivity_1_GenerateRandomPrimes.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\bin\Debug\LearningActivity_1_GenerateRandomPrimes.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\obj\Debug\LearningActivity_1_GenerateRandomPrimes.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\obj\Debug\LearningActivity_1_GenerateRandomPrimes.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_1_GenerateRandomPrimes\obj\Debug\LearningActivity_1_GenerateRandomPrimes.pdb

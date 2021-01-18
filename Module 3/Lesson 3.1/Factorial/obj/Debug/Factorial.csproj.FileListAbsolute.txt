@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\bin\Debug\Factorial.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\bin\Debug\Factorial.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\obj\Debug\Factorial.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\Factorial\obj\Debug\Factorial.pdb

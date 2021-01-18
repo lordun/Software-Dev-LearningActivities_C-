@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\bin\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\bin\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\bin\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\obj\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\obj\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity1_ShowFrequencyHistogramIntegerArray\obj\Debug\LearningActivity1_ShowFrequencyHistogramIntegerArray.pdb

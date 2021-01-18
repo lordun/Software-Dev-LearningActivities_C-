@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\bin\Debug\PeopleCounter.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\bin\Debug\PeopleCounter.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\bin\Debug\PeopleCounter.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\obj\Debug\PeopleCounter.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\obj\Debug\PeopleCounter.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\PeopleCounter\obj\Debug\PeopleCounter.pdb

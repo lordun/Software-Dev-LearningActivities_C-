@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\bin\Debug\Deconstructor.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\bin\Debug\Deconstructor.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\bin\Debug\Deconstructor.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\obj\Debug\Deconstructor.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\obj\Debug\Deconstructor.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.2\Deconstructor\obj\Debug\Deconstructor.pdb

@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\bin\Debug\rightTriangleStars.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\bin\Debug\rightTriangleStars.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\bin\Debug\rightTriangleStars.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\obj\Debug\rightTriangleStars.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\obj\Debug\rightTriangleStars.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\rightTriangleStars\obj\Debug\rightTriangleStars.pdb

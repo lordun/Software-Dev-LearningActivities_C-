@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\bin\Debug\LearningActivity1_ReformatNameAndAddTitle.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\bin\Debug\LearningActivity1_ReformatNameAndAddTitle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\bin\Debug\LearningActivity1_ReformatNameAndAddTitle.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\obj\Debug\LearningActivity1_ReformatNameAndAddTitle.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\obj\Debug\LearningActivity1_ReformatNameAndAddTitle.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.5\LearningActivity1_ReformatNameAndAddTitle\obj\Debug\LearningActivity1_ReformatNameAndAddTitle.pdb

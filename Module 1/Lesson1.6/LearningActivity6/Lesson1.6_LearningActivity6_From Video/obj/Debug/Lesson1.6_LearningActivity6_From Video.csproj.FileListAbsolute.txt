@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\bin\Debug\Lesson1.6_LearningActivity6_From Video.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\bin\Debug\Lesson1.6_LearningActivity6_From Video.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\bin\Debug\Lesson1.6_LearningActivity6_From Video.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\obj\Debug\Lesson1.6_LearningActivity6_From Video.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\obj\Debug\Lesson1.6_LearningActivity6_From Video.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity6\Lesson1.6_LearningActivity6_From Video\obj\Debug\Lesson1.6_LearningActivity6_From Video.pdb

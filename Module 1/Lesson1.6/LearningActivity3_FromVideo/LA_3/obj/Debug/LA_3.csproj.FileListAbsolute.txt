@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\bin\Debug\LA_3.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\bin\Debug\LA_3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\bin\Debug\LA_3.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\obj\Debug\LA_3.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\obj\Debug\LA_3.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity3_FromVideo\LA_3\obj\Debug\LA_3.pdb

@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\bin\Debug\LA_4_GuessingGame.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\bin\Debug\LA_4_GuessingGame.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\bin\Debug\LA_4_GuessingGame.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\obj\Debug\LA_4_GuessingGame.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\obj\Debug\LA_4_GuessingGame.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_4_GuessingGame\obj\Debug\LA_4_GuessingGame.pdb

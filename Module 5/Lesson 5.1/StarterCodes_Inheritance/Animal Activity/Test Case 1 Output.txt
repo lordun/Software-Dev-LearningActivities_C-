@@ -1,0 +1,8 @@
+Animal
+Dog 4
+Woof
+Fish 0
+Just keep swimming
+Shark 0
+Just keep swimming
+Shark ate Fish

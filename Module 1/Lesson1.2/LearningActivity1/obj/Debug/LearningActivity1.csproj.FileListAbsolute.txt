@@ -1,0 +1,12 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\bin\Debug\LearningActivity1.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\bin\Debug\LearningActivity1.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\bin\Debug\LearningActivity1.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\obj\Debug\LearningActivity1.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\obj\Debug\LearningActivity1.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity1\obj\Debug\LearningActivity1.pdb
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\bin\Debug\LearningActivity1.exe.config
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\bin\Debug\LearningActivity1.exe
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\bin\Debug\LearningActivity1.pdb
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\obj\Debug\LearningActivity1.csprojAssemblyReference.cache
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\obj\Debug\LearningActivity1.exe
+C:\Users\ldunf\Desktop\Software Dev LearningActivities_C#\Module 1\Lesson1.2\LearningActivity1\obj\Debug\LearningActivity1.pdb

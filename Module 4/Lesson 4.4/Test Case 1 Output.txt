@@ -1,0 +1,12 @@
+Store has The Dark Knight
+The Dark Knight is available
+The Dark Knight: rented
+Store has The Dark Knight
+The Dark Knight is rented
+The Dark Knight: 100
+The Dark Knight: 152
+The Dark Knight: 52
+The Dark Knight: 0
+The Dark Knight: available
+Store has The Dark Knight
+The Dark Knight is available

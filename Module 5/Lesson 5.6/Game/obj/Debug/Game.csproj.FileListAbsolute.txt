@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\bin\Debug\Game.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\bin\Debug\Game.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\bin\Debug\Game.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\obj\Debug\Game.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.6\Game\obj\Debug\Game.pdb

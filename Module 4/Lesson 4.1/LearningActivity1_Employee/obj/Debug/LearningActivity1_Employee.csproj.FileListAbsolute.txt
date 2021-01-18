@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\bin\Debug\LearningActivity1_Employee.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\bin\Debug\LearningActivity1_Employee.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\bin\Debug\LearningActivity1_Employee.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\obj\Debug\LearningActivity1_Employee.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\obj\Debug\LearningActivity1_Employee.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.1\LearningActivity1_Employee\obj\Debug\LearningActivity1_Employee.pdb

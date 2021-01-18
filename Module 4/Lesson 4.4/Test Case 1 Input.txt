@@ -1,0 +1,20 @@
+add The Shawshank Redemption 142
+add The Godfather 175
+add The Dark Knight 152
+add Fight Club 139
+add Se7en 127
+add The Prestige 130
+add Gladiator 155
+find The Dark Knight
+available The Dark Knight
+rent The Dark Knight
+find The Dark Knight
+available The Dark Knight
+play The Dark Knight 100
+play The Dark Knight 100
+rewind The Dark Knight 100
+rewind The Dark Knight 100
+return The Dark Knight
+find The Dark Knight
+available The Dark Knight
+exit

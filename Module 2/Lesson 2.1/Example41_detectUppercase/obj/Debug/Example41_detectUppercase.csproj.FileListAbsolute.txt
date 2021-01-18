@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\bin\Debug\Example41_detectUppercase.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\bin\Debug\Example41_detectUppercase.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\bin\Debug\Example41_detectUppercase.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\obj\Debug\Example41_detectUppercase.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\obj\Debug\Example41_detectUppercase.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\Example41_detectUppercase\obj\Debug\Example41_detectUppercase.pdb

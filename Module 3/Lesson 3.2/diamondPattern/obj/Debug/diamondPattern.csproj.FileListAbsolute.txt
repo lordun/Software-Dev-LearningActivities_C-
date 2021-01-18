@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\bin\Debug\diamondPattern.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\bin\Debug\diamondPattern.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\bin\Debug\diamondPattern.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\obj\Debug\diamondPattern.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\obj\Debug\diamondPattern.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\diamondPattern\obj\Debug\diamondPattern.csprojAssemblyReference.cache

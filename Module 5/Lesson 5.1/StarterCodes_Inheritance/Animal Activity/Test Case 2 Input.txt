@@ -1,0 +1,8 @@
+animal
+shark
+fish
+shark
+dog
+shark
+shark
+exit

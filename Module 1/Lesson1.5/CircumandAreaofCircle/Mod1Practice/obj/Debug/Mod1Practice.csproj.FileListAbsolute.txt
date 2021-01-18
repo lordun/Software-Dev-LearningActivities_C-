@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\bin\Debug\Mod1Practice.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\bin\Debug\Mod1Practice.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\bin\Debug\Mod1Practice.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\obj\Debug\Mod1Practice.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\obj\Debug\Mod1Practice.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\New folder\Mod1Practice\obj\Debug\Mod1Practice.pdb

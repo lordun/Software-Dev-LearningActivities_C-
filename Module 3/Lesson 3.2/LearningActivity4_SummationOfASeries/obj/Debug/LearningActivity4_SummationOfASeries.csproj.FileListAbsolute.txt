@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\bin\Debug\LearningActivity4_SummationOfASeries.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\bin\Debug\LearningActivity4_SummationOfASeries.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\bin\Debug\LearningActivity4_SummationOfASeries.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\obj\Debug\LearningActivity4_SummationOfASeries.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\obj\Debug\LearningActivity4_SummationOfASeries.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity4_SummationOfASeries\obj\Debug\LearningActivity4_SummationOfASeries.pdb

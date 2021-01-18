@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\bin\Debug\LA2_QuadEquations_Video.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\bin\Debug\LA2_QuadEquations_Video.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\bin\Debug\LA2_QuadEquations_Video.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\obj\Debug\LA2_QuadEquations_Video.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\obj\Debug\LA2_QuadEquations_Video.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.1\LA2_QuadEquations_Video\obj\Debug\LA2_QuadEquations_Video.pdb

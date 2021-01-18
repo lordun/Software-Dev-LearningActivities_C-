@@ -1,0 +1,15 @@
+Store does not have Harry Potter
+The Godfather: rented
+The Godfather: 30
+The Godfather: available
+Se7en: rented
+Se7en: 127
+Se7en: 117
+Se7en: 107
+The Godfather is available
+The Godfather: rented
+The Godfather: 60
+The Godfather: 53
+Se7en: available
+The Godfather: available
+Se7en is available

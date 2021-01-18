@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\obj\Debug\Example1_daysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\bin\Debug\Example1_daysOfTheWeek.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\bin\Debug\Example1_daysOfTheWeek.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\bin\Debug\Example1_daysOfTheWeek.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\obj\Debug\Example1_daysOfTheWeek.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\Example1_daysOfTheWeek\obj\Debug\Example1_daysOfTheWeek.pdb

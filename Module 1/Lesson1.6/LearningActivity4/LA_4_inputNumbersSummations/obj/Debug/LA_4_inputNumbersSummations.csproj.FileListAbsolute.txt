@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\bin\Debug\LA_4_inputNumbersSummations.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\bin\Debug\LA_4_inputNumbersSummations.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\bin\Debug\LA_4_inputNumbersSummations.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\obj\Debug\LA_4_inputNumbersSummations.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\obj\Debug\LA_4_inputNumbersSummations.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\LearningActivity4\LA_4_inputNumbersSummations\obj\Debug\LA_4_inputNumbersSummations.pdb

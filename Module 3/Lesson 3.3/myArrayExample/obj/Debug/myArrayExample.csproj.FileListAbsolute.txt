@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\bin\Debug\myArrayExample.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\bin\Debug\myArrayExample.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\bin\Debug\myArrayExample.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\obj\Debug\myArrayExample.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\obj\Debug\myArrayExample.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\myArrayExample\obj\Debug\myArrayExample.pdb

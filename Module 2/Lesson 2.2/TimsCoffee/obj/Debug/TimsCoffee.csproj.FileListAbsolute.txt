@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\bin\Debug\TimsCoffee.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\bin\Debug\TimsCoffee.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\bin\Debug\TimsCoffee.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\obj\Debug\TimsCoffee.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\obj\Debug\TimsCoffee.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\TimsCoffee\obj\Debug\TimsCoffee.pdb

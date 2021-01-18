@@ -1,0 +1,12 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\bin\Debug\LearningActivity2_DicePool.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 4\Lesson 4.4\compilerIssues_LearningActivity2_DicePool\obj\Debug\LearningActivity2_DicePool.pdb

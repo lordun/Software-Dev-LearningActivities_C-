@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\bin\Debug\LearningActivity2_Statistical Analysis.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\bin\Debug\LearningActivity2_Statistical Analysis.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\bin\Debug\LearningActivity2_Statistical Analysis.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\obj\Debug\LearningActivity2_Statistical Analysis.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\obj\Debug\LearningActivity2_Statistical Analysis.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.3\LearningActivity2_Statistical Analysis\obj\Debug\LearningActivity2_Statistical Analysis.pdb

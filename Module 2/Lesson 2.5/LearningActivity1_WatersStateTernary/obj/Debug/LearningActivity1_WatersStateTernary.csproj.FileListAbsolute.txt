@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\bin\Debug\LearningActivity1_WatersStateTernary.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\bin\Debug\LearningActivity1_WatersStateTernary.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\bin\Debug\LearningActivity1_WatersStateTernary.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\obj\Debug\LearningActivity1_WatersStateTernary.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\obj\Debug\LearningActivity1_WatersStateTernary.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateTernary\obj\Debug\LearningActivity1_WatersStateTernary.pdb

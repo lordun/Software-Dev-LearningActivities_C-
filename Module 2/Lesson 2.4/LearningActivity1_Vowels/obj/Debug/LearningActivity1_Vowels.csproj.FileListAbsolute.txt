@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\bin\Debug\LearningActivity1_Vowels.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\bin\Debug\LearningActivity1_Vowels.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\bin\Debug\LearningActivity1_Vowels.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\obj\Debug\LearningActivity1_Vowels.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\obj\Debug\LearningActivity1_Vowels.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.4\LearningActivity1_Vowels\obj\Debug\LearningActivity1_Vowels.pdb

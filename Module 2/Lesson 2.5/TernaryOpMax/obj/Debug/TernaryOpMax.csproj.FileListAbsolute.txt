@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\bin\Debug\TernaryOpMax.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\bin\Debug\TernaryOpMax.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\bin\Debug\TernaryOpMax.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\obj\Debug\TernaryOpMax.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\obj\Debug\TernaryOpMax.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\TernaryOpMax\obj\Debug\TernaryOpMax.pdb

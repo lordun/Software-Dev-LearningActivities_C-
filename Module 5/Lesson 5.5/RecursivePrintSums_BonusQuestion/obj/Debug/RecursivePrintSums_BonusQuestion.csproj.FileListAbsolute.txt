@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\bin\Debug\RecursivePrintSums_BonusQuestion.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\bin\Debug\RecursivePrintSums_BonusQuestion.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\bin\Debug\RecursivePrintSums_BonusQuestion.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\obj\Debug\RecursivePrintSums_BonusQuestion.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\obj\Debug\RecursivePrintSums_BonusQuestion.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.5\RecursivePrintSums_BonusQuestion\obj\Debug\RecursivePrintSums_BonusQuestion.csprojAssemblyReference.cache

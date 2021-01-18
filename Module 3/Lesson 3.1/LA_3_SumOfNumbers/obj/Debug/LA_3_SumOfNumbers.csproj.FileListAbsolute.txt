@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\bin\Debug\LA_3_SumOfNumbers.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\bin\Debug\LA_3_SumOfNumbers.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\bin\Debug\LA_3_SumOfNumbers.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\obj\Debug\LA_3_SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\obj\Debug\LA_3_SumOfNumbers.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_3_SumOfNumbers\obj\Debug\LA_3_SumOfNumbers.pdb

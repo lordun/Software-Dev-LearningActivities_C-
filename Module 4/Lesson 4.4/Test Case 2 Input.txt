@@ -1,0 +1,23 @@
+add The Shawshank Redemption 142
+add The Godfather 175
+add The Dark Knight 152
+add Fight Club 139
+add Se7en 127
+add The Prestige 130
+add Gladiator 155
+find Harry Potter
+rent The Godfather
+play The Godfather 30
+return The Godfather
+rent Se7en
+play Se7en 500
+rewind Se7en 10
+rewind Se7en 10
+available The Godfather
+rent The Godfather
+play The Godfather 30
+rewind The Godfather 7
+return Se7en
+return The Godfather
+available Se7en
+exit

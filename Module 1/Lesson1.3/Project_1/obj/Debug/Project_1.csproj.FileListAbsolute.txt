@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\bin\Debug\Project_1.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\bin\Debug\Project_1.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\bin\Debug\Project_1.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\obj\Debug\Project_1.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\obj\Debug\Project_1.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Project_1\obj\Debug\Project_1.pdb

@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\bin\Debug\sampleAppWithBugs.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\bin\Debug\sampleAppWithBugs.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\bin\Debug\sampleAppWithBugs.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\obj\Debug\sampleAppWithBugs.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\obj\Debug\sampleAppWithBugs.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.3\sampleAppWithBugs\obj\Debug\sampleAppWithBugs.pdb

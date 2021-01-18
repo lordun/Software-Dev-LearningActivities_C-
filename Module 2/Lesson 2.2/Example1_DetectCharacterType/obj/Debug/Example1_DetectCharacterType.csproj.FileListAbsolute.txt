@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\obj\Debug\Example1_DetectCharacterType.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\bin\Debug\Example1_DetectCharacterType.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\bin\Debug\Example1_DetectCharacterType.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\bin\Debug\Example1_DetectCharacterType.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\obj\Debug\Example1_DetectCharacterType.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.2\Example1_DetectCharacterType\obj\Debug\Example1_DetectCharacterType.pdb

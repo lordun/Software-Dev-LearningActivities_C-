@@ -1,0 +1,12 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActivity_1_estimatingPI\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\bin\Debug\LearningActvity2_PrintingPyramids.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.2\LearningActvity2_PrintingPyramids\obj\Debug\LearningActvity2_PrintingPyramids.pdb

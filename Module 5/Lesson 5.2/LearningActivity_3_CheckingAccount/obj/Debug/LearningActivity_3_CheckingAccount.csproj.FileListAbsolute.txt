@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\bin\Debug\LearningActivity_3_CheckingAccount.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\bin\Debug\LearningActivity_3_CheckingAccount.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\bin\Debug\LearningActivity_3_CheckingAccount.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\obj\Debug\LearningActivity_3_CheckingAccount.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\obj\Debug\LearningActivity_3_CheckingAccount.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 5\Lesson 5.2\LearningActivity_3_CheckingAccount\obj\Debug\LearningActivity_3_CheckingAccount.pdb

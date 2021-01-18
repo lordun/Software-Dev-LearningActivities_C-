@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\bin\Debug\LA_2_vendingMachine.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\bin\Debug\LA_2_vendingMachine.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\bin\Debug\LA_2_vendingMachine.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\obj\Debug\LA_2_vendingMachine.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\obj\Debug\LA_2_vendingMachine.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 3\Lesson 3.1\LA_2_vendingMachine\obj\Debug\LA_2_vendingMachine.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\bin\Debug\LearningActivity1_WatersStateOfMatter.exe.config
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\bin\Debug\LearningActivity1_WatersStateOfMatter.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\bin\Debug\LearningActivity1_WatersStateOfMatter.pdb
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\obj\Debug\LearningActivity1_WatersStateOfMatter.csprojAssemblyReference.cache
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\obj\Debug\LearningActivity1_WatersStateOfMatter.exe
+C:\Users\ldunf\OneDrive\SODV9104_software\Module 2\Lesson 2.5\LearningActivity1_WatersStateOfMatter\obj\Debug\LearningActivity1_WatersStateOfMatter.pdb
